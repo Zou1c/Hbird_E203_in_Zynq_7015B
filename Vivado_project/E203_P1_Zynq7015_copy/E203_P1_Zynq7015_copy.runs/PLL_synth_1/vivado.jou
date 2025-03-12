@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2024.1 (64-bit)
+# SW Build 5076996 on Wed May 22 18:37:14 MDT 2024
+# IP Build 5075265 on Wed May 22 21:45:21 MDT 2024
+# SharedData Build 5076995 on Wed May 22 18:29:18 MDT 2024
+# Start of session at: Thu Feb 27 18:38:36 2025
+# Process ID: 22336
+# Current directory: E:/Project/E203_P1_Zynq7015_copy/E203_P1_Zynq7015_copy.runs/PLL_synth_1
+# Command line: vivado.exe -log PLL.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source PLL.tcl
+# Log file: E:/Project/E203_P1_Zynq7015_copy/E203_P1_Zynq7015_copy.runs/PLL_synth_1/PLL.vds
+# Journal file: E:/Project/E203_P1_Zynq7015_copy/E203_P1_Zynq7015_copy.runs/PLL_synth_1\vivado.jou
+# Running On        :DESKTOP-QI8EAU8
+# Platform          :Windows Server 2016 or Windows 10
+# Operating System  :26100
+# Processor Detail  :12th Gen Intel(R) Core(TM) i5-12600KF
+# CPU Frequency     :3686 MHz
+# CPU Physical cores:10
+# CPU Logical cores :16
+# Host memory       :68541 MB
+# Swap memory       :4294 MB
+# Total Virtual     :72836 MB
+# Available Virtual :53228 MB
+#-----------------------------------------------------------
+source PLL.tcl -notrace
