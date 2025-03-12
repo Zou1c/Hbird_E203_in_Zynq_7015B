@@ -6,6 +6,7 @@
 ```
 https://www.bilibili.com/video/BV1ia411U76P/?spm_id_from=333.1391.0.0&vd_source=2e347744adefa61fe331f93e747e09b5
 ```
+这位up主讲的比较详细，建议参考他的视频来做，这里的readme只是尽量提供所有需要的东西
 
 ## 实验环境
 ### 硬件需要
