@@ -2,6 +2,11 @@
 ## 这个项目能干啥？
 算是本人跟着视频教学，整了一个对移植工作做移植的小实验——通过一台Windows主机、一个ZYNQ7000的AX7015B开发板（FPGA）、一个蜂鸟官方的调试器、一个USB转TTL器件，实现在FPGA上跑一个蜂鸟E203的CPU，并让这个CPU直接运行一个helloworld模板程序，将结果通过UART输出到主机的串口终端上。
 
+## 来源
+```
+https://www.bilibili.com/video/BV1ia411U76P/?spm_id_from=333.1391.0.0&vd_source=2e347744adefa61fe331f93e747e09b5
+```
+
 ## 实验环境
 ### 硬件需要
 - 一台配有Vivado 2024.01的windows系统（这里理论上只需要有不会版本冲突的vivado就行）
